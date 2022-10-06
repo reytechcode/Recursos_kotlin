@@ -1,4 +1,4 @@
-package com.reynaldo.citamedicaguia
+package com.reynaldo.citamedica
 
 import android.content.Context
 import android.content.SharedPreferences
